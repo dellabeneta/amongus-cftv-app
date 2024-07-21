@@ -4,3 +4,4 @@
 Créditos ao: https://codigofonte.tv/
 
 Este projeto trata-se de um joguinho simples, construído pelos criadores acima. Estou usando como exemplo de aplicação web que possa rodar diretamente em um bucket S3 da AWS.
+MICHEL
